@@ -27,3 +27,8 @@
 .secao-horizontal .cartao__botao{
    grid-area: 1/3/4/4;
 }
+
+.secao-vertical .cartao{
+   display: grid;
+   grid-template-rows: auto 1fr auto;
+}
