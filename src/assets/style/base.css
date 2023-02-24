@@ -209,7 +209,7 @@ body {
 	height: 4px;
 }
 
-.rodape__barra div{
+.rodape__barra--duracao, .rodape__barra--volume-maximo{
 	position: absolute;
 	top: 0;
 	height: 4px;
@@ -222,7 +222,7 @@ body {
 	font-size: 0.75rem;
 }
 
-.barra__container--reproducao, .rodape__barra--reproducao div{
+.barra__container--reproducao, .rodape__barra--duracao{
 	width: 37vw;
 }
 
@@ -230,8 +230,8 @@ body {
 	width: 25vw;
 }
 
-.barra__container--volume, .rodape__barra--volume div{
-	width: 8px;
+.barra__container--volume, .rodape__barra--volume-maximo{
+	width: 10vw;
 }
 
 .rodape__barra--volume{
