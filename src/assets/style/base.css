@@ -143,12 +143,11 @@ body {
 .secao-vertical .cartao {
 	background: rgba(196, 196, 196, 0.2);
 	border-radius: 10px;
-	padding: 1rem;
+	padding: 10px;
 	text-align: center;
 }
 
 .secao-vertical .cartao__imagem {
-	height: 150px;
 	margin-bottom: .5rem;
 }
 

@@ -10,6 +10,7 @@
 .rodape__imagem{
    grid-row: 1/3;
    align-self: center;  
+   border-radius: 10px 0 0 10px;
 }
 
 .rodape__subtitulo, .rodape__horario--inicio, .barra__container--reproducao, .rodape__botao--volume-down,.rodape__horario--termino, .barra__container--volume, .rodape__botao--volume-up{
