@@ -1,9 +1,9 @@
 <h1 align="center">
- <img src="src/assets/img/alura-Cast_logo.svg" width="50%">
+ <img src="src/assets/img/alura-Cast_logo.svg" width="30%">
 </h1>
 
 <p align="center">
- <img src="https://img.shields.io/badge/status-finished-2967B3">
+ <img src="https://img.shields.io/badge/status-developing-2967B3">
  <img src="https://img.shields.io/badge/version-v1.0.0-154580">
 </p>
 
@@ -35,21 +35,21 @@
 - Versão mobile 
 
 <br/>
-<!-- <img src="" width="200" height="380"> -->
+<!-- <img src="" width="200" height="380" target="_blank"> -->
 
 <br/>
 
 - Versão tablet
 
 <br/>
-<img src="src\assets\img\aluraCastTablet.gif" width="500" height="260">
+<img src="src\assets\img\aluraCastTablet.gif" width="500" height="240" target="_blank">
 
 <br/>
 
 - Versão desktop 
 
 <br/>
-<img src="src\assets\img\aluraCastDesktop.gif">  
+<img src="src\assets\img\aluraCastDesktop.gif" target="_blank">  
 
 <br/>
 
