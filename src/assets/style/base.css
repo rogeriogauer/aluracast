@@ -109,6 +109,7 @@ body {
 }
 
 .cartao__titulo {
+	font-size: 14px;
 	font-weight: 700;
 	line-height: 22px;
 }
@@ -152,7 +153,7 @@ body {
 }
 
 .secao-vertical .cartao__subtitulo {
-	margin-top: .75rem;
+	margin-top: 1.5rem;
 }
 
 /*Navbar*/
@@ -192,7 +193,7 @@ body {
 }
 
 /* rodape */
-.rodape{
+.rodape {
 	background-color: var(--azul-medio);
 	position: fixed;
 	bottom: 0;
@@ -201,7 +202,7 @@ body {
 }
 
 /* Genericos como barra, botao, etc) */
-.rodape__barra{
+.rodape__barra {
 	position: relative;
 	opacity: 0.9;
 	border-radius: 10px;
@@ -209,7 +210,8 @@ body {
 	height: 4px;
 }
 
-.rodape__barra--duracao, .rodape__barra--volume-maximo{
+.rodape__barra--duracao,
+.rodape__barra--volume-maximo {
 	position: absolute;
 	top: 0;
 	height: 4px;
@@ -218,23 +220,24 @@ body {
 	background-color: white;
 }
 
-.rodape__horario{
+.rodape__horario {
 	font-size: 0.75rem;
 }
 
-.barra__container--reproducao, .rodape__barra--duracao{
+.barra__container--reproducao,
+.rodape__barra--duracao {
 	width: 37vw;
 }
 
-.rodape__barra--reproducao{
+.rodape__barra--reproducao {
 	width: 25vw;
 }
 
-.barra__container--volume, .rodape__barra--volume-maximo{
+.barra__container--volume,
+.rodape__barra--volume-maximo {
 	width: 10vw;
 }
 
-.rodape__barra--volume{
+.rodape__barra--volume {
 	width: 4vw;
 }
-

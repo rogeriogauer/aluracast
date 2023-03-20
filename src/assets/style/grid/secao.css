@@ -15,7 +15,7 @@
 .secao__cartoes{
    display: grid;
    row-gap: 1rem;
-   --gap-coluna:1.25rem;
+   --gap-coluna:1rem;
    column-gap: var(--gap-coluna);
    --gap-proporcional:var(--gap-coluna) * (var(--quantidade-maxima-de-colunas) - 1) / var(--quantidade-maxima-de-colunas); 
 

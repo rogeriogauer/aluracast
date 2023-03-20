@@ -28,12 +28,12 @@
 	}
 
 	.secao-horizontal .cartao__imagem {
-		height: 56px;
-		width: 56px;
+		height: 59px;
+		width: 59px;
 	}
 
 	.secao-horizontal .cartao__titulo {
-		font: 700 12px/20px Open Sans, sans-serif;
+		font: 700 11px/20px Open Sans, sans-serif;
 		grid-row: 1/4;
 		align-self: center;
 	}
@@ -47,7 +47,7 @@
 	}
 
 	.secao-vertical .cartao__imagem {
-		height: 130px;
+		height: 116px;
 	}
 }
 
@@ -73,17 +73,19 @@
 		--gap-coluna: 1.5rem;
 	}
 
-	.secao-horizontal .cartao__titulo {
+	.secao-horizontal .cartao__titulo,
+	.secao-vertical .cartao__titulo {
 		font: 700 16px/22px 'Open Sans', sans-serif;
 	}
 
-	.secao-horizontal .cartao__subtitulo {
+	.secao-horizontal .cartao__subtitulo,
+	.secao-vertical .cartao__subtitulo {
 		font: 400 14px/19px 'Open Sans', sans-serif;
 		width: 100%;
 	}
 
 	.secao-vertical .cartao__imagem {
-		height: 150px;
+		height: 170px;
 	}
 
 	.secao-vertical:last-of-type {
