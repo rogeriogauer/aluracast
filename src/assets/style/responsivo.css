@@ -14,8 +14,8 @@
 	}
 
 	.container {
-		padding-left: 1rem;
-		padding-right: 1rem;
+		padding-left: 0.5rem;
+		padding-right: 0.5rem;
 	}
 
 	.secao-cartoes {
@@ -42,12 +42,16 @@
 		margin-bottom: 6rem;
 	}
 
+	.secao-vertical .cartao{
+		padding: 10px 5px;
+	}
+
 	.secao-vertical .cartao:nth-child(n+3) {
 		display: none;
 	}
 
 	.secao-vertical .cartao__imagem {
-		height: 116px;
+		height: 120px;
 	}
 }
 

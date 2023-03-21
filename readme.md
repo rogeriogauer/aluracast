@@ -1,5 +1,5 @@
 <h1 align="center">
- <img src="src/assets/img/alura-Cast_logo.svg" width="30%">
+ <img src="src/assets/img/alura-Cast_logo.svg" width="40%">
 </h1>
 
 <p align="center">
@@ -42,14 +42,14 @@
 - Versão tablet
 
 <br/>
-<img src="src\assets\img\aluraCastTablet.gif" width="500" height="240" target="_blank">
+<img src="src\assets\img\aluraCastTablet.gif" target="_blank" width="500" height="240">
 
 <br/>
 
 - Versão desktop 
 
 <br/>
-<img src="src\assets\img\aluraCastDesktop.gif" target="_blank">  
+<img src="src\assets\img\aluraCastDesktop.gif" target="_blank" width="600">  
 
 <br/>
 
