@@ -84,8 +84,16 @@
 		width: 100%;
 	}
 
+	.secao-vertical .cartao{
+		padding: 24px 10px;
+	}
+
 	.secao-vertical .cartao__imagem {
-		height: 170px;
+		height: 160px;
+	}
+
+	.secao-vertical .cartao__titulo{
+		padding: 0 17px;
 	}
 
 	.secao-vertical:last-of-type {

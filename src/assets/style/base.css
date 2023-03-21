@@ -16,7 +16,7 @@ button {
 :root {
 	--azul-escuro: #041833;
 	--azul-medio: #154580;
-	--azul-degrade: linear-gradient(180deg, var(--azul-medio) 0%, var(--azul-escuro) 100%);
+	--azul-degrade: linear-gradient(180deg, var(--azul-medio), var(--azul-escuro));
 	--verde: #84EEC1;
 	--cinza: rgba(196, 196, 196, 0.2);
 	--cor-textos: #ffffff;
