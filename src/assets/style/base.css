@@ -33,11 +33,6 @@ body {
 	font-family: var(--fonte-textos);
 }
 
-.container {
-	padding-left: 2.5rem;
-	padding-right: 2.5rem;
-}
-
 /*Aside*/
 .menu-lateral {
 	background-color: var(--azul-escuro);
