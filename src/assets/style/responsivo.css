@@ -8,7 +8,7 @@
 	.rodape {
 		display: none;
 	}
-
+	
 	.navbar {
 		display: block;
 	}
@@ -90,7 +90,7 @@
 	}
 
 	.secao-vertical .cartao{
-		padding: 24px 10px;
+		padding: 12px 10px;
 	}
 
 	.secao-vertical .cartao__imagem {
@@ -122,11 +122,12 @@
 	}
 
 	.secao-vertical .cartao {
-		padding: 15px;
+		padding: 12px 10px;
 	}
 
 	.secao-vertical .cartao__imagem {
-		height: 135px;
+		width: 165px;
+		height: 165px;
 	}
 
 	.secao-vertical:last-of-type {
