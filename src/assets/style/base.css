@@ -55,35 +55,33 @@ body {
 	margin-bottom: .5rem;
 }
 
-.ativo {
-	background-color: var(--azul-medio);
-	border-radius: 5px;
-	padding: .75rem 0;
+.menu-lateral__link:hover {
+	color: var(--verde);
 }
 
 .menu-lateral__link--home::before {
-	content: url("../img/icone-home.svg");
+	content: url("../img/home_white_18dp.svg");
 }
 
 .menu-lateral__link--busca::before {
-	content: url("../img/icone-busca.svg");
+	content: url("../img/search_white_18dp.svg");
 }
 
 .menu-lateral__link--biblioteca::before {
-	content: url("../img/icone-biblioteca.svg");
+	content: url("../img/bookmark_white_18dp.svg");
 }
 
 .menu-lateral__playlist {
 	text-transform: uppercase;
-	padding-left: 1rem;
+	padding-left: 0.75rem;
 }
 
 .menu-lateral__link--playlist::before {
-	content: url("../img/icone-add_box.svg");
+	content: url("../img/add_circle_white_18dp.svg");
 }
 
 .menu-lateral__link--podcasts::before {
-	content: url("../img/icone-stars.svg");
+	content: url("../img/stars_white_18dp.svg");
 }
 
 /*Header*/
@@ -134,6 +132,7 @@ body {
 
 .secao-horizontal .cartao__botao {
 	width: 70px;
+	padding-top: 7px;
 }
 
 /*Seção vertical*/
