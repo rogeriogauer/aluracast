@@ -14,15 +14,13 @@ button {
 
 /*Variaveis globais*/
 :root {
-	--azul-escuro: #041833;
-	--azul-medio: #154580;
-	--verde-mais-escuro:#002600;
-	--verde-escuro:#003300;
-	--verde-medio:#004D00;
-	--verde-degrade: linear-gradient(180deg, var(--verde-medio), var(--verde-escuro));
-	--verde: #84EEC1;
-	--cinza: rgba(196, 196, 196, 0.2);
-	--cor-textos: #ffffff;
+	--cor01:rgba(196, 196, 196, 0.2);
+	--cor02:#84EEC1;
+	--cor03:#004D00;
+	--cor04:#003300;
+	--cor05:#002600;
+	--cor-textos:#ffffff;
+	--degrade: linear-gradient(180deg, var(--cor03), var(--cor04));
 	--fonte-textos: 'Open Sans', sans-serif;
 }
 
@@ -32,13 +30,13 @@ button {
 
 body {
 	color: var(--cor-textos);
-	background: var(--verde-degrade);
+	background: var(--degrade);
 	font-family: var(--fonte-textos);
 }
 
 /*Aside*/
 .menu-lateral {
-	background-color: var(--verde-mais-escuro);
+	background-color: var(--cor05);
 	padding: 2.5rem .5rem 0;
 	font-weight: 600;
 	letter-spacing: 2px;
@@ -59,7 +57,7 @@ body {
 }
 
 .menu-lateral__link:hover {
-	color: var(--verde);
+	color: var(--cor02);
 }
 
 .menu-lateral__link--home::before {
@@ -117,7 +115,7 @@ body {
 /*Seção horizontal*/
 
 .secao-horizontal .cartao {
-	background: var(--cinza);
+	background: var(--cor01);
 	border-radius: 10px;
 }
 
@@ -134,8 +132,8 @@ body {
 }
 
 .secao-horizontal .cartao__botao {
-	width: 70px;
-	padding-top: 7px;
+	padding-top: 5px;
+	padding-right: 12px;
 }
 
 /*Seção vertical*/
@@ -158,7 +156,7 @@ body {
 .navbar {
 	position: fixed;
 	bottom: 0;
-	background-color: var(--verde-escuro);
+	background-color: var(--cor04);
 	width: 100vw;
 	opacity: 0.9;
 }
@@ -192,7 +190,7 @@ body {
 
 /* rodape */
 .rodape {
-	background-color: var(--verde-escuro);
+	background-color: var(--cor04);
 	position: fixed;
 	bottom: 0;
 	width: 100%;

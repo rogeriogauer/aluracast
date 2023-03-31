@@ -28,10 +28,6 @@
    justify-self: end;
 }
 
-.rodape__botao--play {
-   height: 31px;
-}
-
 .rodape__botao--avancar {
    justify-self: start;
 }
