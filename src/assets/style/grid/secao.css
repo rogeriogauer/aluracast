@@ -4,12 +4,12 @@
 }
 
 .secao-horizontal {
-   grid-template-rows: 90px auto;
+   grid-template-rows: 75px auto;
 }
 
 .secao-vertical {
    grid-template-columns: 1fr auto;
-   grid-template-rows: 1fr 2fr;
+   grid-template-rows: 140px 2fr;
 }
 
 .secao__cartoes{

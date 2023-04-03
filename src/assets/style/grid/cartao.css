@@ -1,7 +1,7 @@
 .secao-horizontal .cartao{
    display: grid;
    grid-template-columns: auto 1fr auto;
-   column-gap: 1.25rem;
+   column-gap: 1rem;
 }
 
 /*.secao-horizontal .cartao__imagem{
