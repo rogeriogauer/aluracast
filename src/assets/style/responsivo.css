@@ -1,4 +1,5 @@
 @media only screen and (max-width: 1023px) {
+
 	.cabecalho,
 	.menu-lateral,
 	.secao-horizontal .cartao__subtitulo,
@@ -8,7 +9,7 @@
 	.rodape {
 		display: none;
 	}
-	
+
 	.navbar {
 		display: block;
 	}
@@ -47,7 +48,7 @@
 		margin-bottom: 6rem;
 	}
 
-	.secao-vertical .cartao{
+	.secao-vertical .cartao {
 		padding: 12px 10px;
 	}
 
@@ -77,7 +78,7 @@
 	.menu-lateral__link {
 		font-size: .8rem;
 	}
-	
+
 	.menu-lateral__link::before {
 		padding-left: 0.75rem;
 	}
@@ -86,10 +87,21 @@
 		font-weight: 700;
 		font-size: 1.2rem;
 	}
-	
-	.secao__cartoes{
+
+	.secao__cartoes {
 		row-gap: 1rem;
 		--gap-coluna: 1rem;
+	}
+
+	.cartao {
+		transition-property: all;
+		transition-duration: 0.4s;
+		transition-timing-function: ease-in-out;
+	}
+
+	.cartao:hover {
+		transform: scale(1.02);
+		filter: saturate(170%);
 	}
 
 	.secao-horizontal .cartao__titulo,
@@ -103,7 +115,7 @@
 		width: 100%;
 	}
 
-	.secao-vertical .cartao{
+	.secao-vertical .cartao {
 		padding: 12px 10px;
 	}
 
@@ -111,7 +123,7 @@
 		height: 160px;
 	}
 
-	.secao-vertical .cartao__titulo{
+	.secao-vertical .cartao__titulo {
 		padding: 0 17px;
 	}
 
@@ -130,9 +142,38 @@
 		padding-right: 2rem;
 	}
 
+	.menu-lateral__logo{
+		font-size: 2.2rem;
+	}
+
+	.secao-horizontal {
+		grid-template-rows: 100px auto;
+	}
+
+	.secao-horizontal .secao__titulo{
+		align-self: flex-start;
+		padding-top: 25px;
+	}
+
+	.secao__titulo {
+		font-weight: 700;
+		font-size: 1.8rem;
+	}
+
 	.secao__cartoes {
 		row-gap: 1.25rem;
 		--gap-coluna: 1.25rem;
+	}
+
+	.cartao {
+		transition-property: all;
+		transition-duration: 0.4s;
+		transition-timing-function: ease-in-out;
+	}
+
+	.cartao:hover {
+		transform: scale(1.02);
+		filter: saturate(170%);
 	}
 
 	.secao-vertical .cartao {

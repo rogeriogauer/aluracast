@@ -41,7 +41,7 @@ body {
 	padding: 2.3rem .5rem 0;
 	font-weight: 600;
 	letter-spacing: 2px;
-	width: 230px;
+	width: 270px;
 }
 
 .menu-lateral__logo{
@@ -125,12 +125,6 @@ body {
 .secao-horizontal .cartao {
 	background: var(--cor01);
 	border-radius: 10px;
-	transition-property: all;
-}
-
-.secao-horizontal .cartao:hover{
-	transform: scale(1.02);	
-	transition-timing-function: ease-in-out;	
 }
 
 .secao-horizontal .cartao__imagem {
