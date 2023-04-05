@@ -142,7 +142,7 @@
 		padding-right: 2rem;
 	}
 
-	.menu-lateral__logo{
+	.menu-lateral__logo {
 		font-size: 2.2rem;
 	}
 
@@ -150,7 +150,7 @@
 		grid-template-rows: 100px auto;
 	}
 
-	.secao-horizontal .secao__titulo{
+	.secao-horizontal .secao__titulo {
 		align-self: flex-start;
 		padding-top: 25px;
 	}
@@ -176,6 +176,10 @@
 		filter: saturate(170%);
 	}
 
+	.secao-horizontal .cartao__imagem {
+		height: 100px;
+	}
+
 	.secao-vertical .cartao {
 		padding: 12px 10px;
 	}
@@ -183,6 +187,20 @@
 	.secao-vertical .cartao__imagem {
 		width: 165px;
 		height: 165px;
+	}
+
+	.cartao__titulo {
+		font-size: 1.5rem;
+		line-height: 2.5rem;
+	}
+
+	.cartao__subtitulo {
+		font-size: 1.2rem;
+		line-height: 2.5rem;
+	}
+
+	.secao-horizontal .cartao__player {
+		width: 182px;
 	}
 
 	.secao-vertical:last-of-type {
