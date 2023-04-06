@@ -142,8 +142,21 @@
 		padding-right: 2rem;
 	}
 
+	.cabecalho{
+		padding-top: 2.8rem;
+	}
+
+	.cabecalho__botao{
+		transform: scale(1.3);	
+	}
+
 	.menu-lateral__logo {
 		font-size: 2.2rem;
+	}
+
+	.menu-lateral__link {
+		font-size: 1.3rem;
+		line-height: 1.8rem;
 	}
 
 	.secao-horizontal {
@@ -152,12 +165,16 @@
 
 	.secao-horizontal .secao__titulo {
 		align-self: flex-start;
-		padding-top: 25px;
+		padding-top: 31px;
 	}
 
 	.secao__titulo {
 		font-weight: 700;
 		font-size: 1.8rem;
+	}
+
+	.secao__link{
+		font-size: 1.5rem;
 	}
 
 	.secao__cartoes {
@@ -189,14 +206,18 @@
 		height: 165px;
 	}
 
+	.secao-horizontal .cartao__titulo{
+		padding-bottom: 7px;
+	}
+
 	.cartao__titulo {
-		font-size: 1.5rem;
-		line-height: 2.5rem;
+		font-size: 1.3rem;
+		line-height: 1.8rem;
 	}
 
 	.cartao__subtitulo {
 		font-size: 1.2rem;
-		line-height: 2.5rem;
+		line-height: 1.8rem;
 	}
 
 	.secao-horizontal .cartao__player {
@@ -209,5 +230,14 @@
 
 	.navbar {
 		display: none;
+	}
+
+	.rodape__titulo{
+		font-size: 1.2rem;
+		line-height: 1.8rem;
+	}
+
+	.rodape__subtitulo{
+		font-size: 1.1rem;		
 	}
 }
