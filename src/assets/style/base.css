@@ -35,6 +35,14 @@ body {
 	font-family: var(--fonte-textos);
 }
 
+::-webkit-scrollbar{
+	background-color: var(--cor05);
+}
+
+::-webkit-scrollbar-thumb{
+	background-color: var(--cor02);
+}
+
 /*Aside*/
 .menu-lateral {
 	background-color: var(--cor05);

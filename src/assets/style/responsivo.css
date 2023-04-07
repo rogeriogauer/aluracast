@@ -88,6 +88,10 @@
 		font-size: 1.2rem;
 	}
 
+	.secao__link:hover{
+		color:var(--cor02);
+	}
+
 	.secao__cartoes {
 		row-gap: 1rem;
 		--gap-coluna: 1rem;
@@ -175,6 +179,10 @@
 
 	.secao__link{
 		font-size: 1.5rem;
+	}
+
+	.secao__link:hover{
+		color:var(--cor02);
 	}
 
 	.secao__cartoes {
