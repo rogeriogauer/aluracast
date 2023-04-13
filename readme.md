@@ -3,8 +3,8 @@
 </h1>
 
 <p align="center">
- <img src="https://img.shields.io/badge/status-developing-2967B3">
- <img src="https://img.shields.io/badge/version-v1.0.0-154580">
+ <img src="https://img.shields.io/badge/status-developing-006600">
+ <img src="https://img.shields.io/badge/version-v1.0.0-004000">
 </p>
 
 <br/>
@@ -21,6 +21,7 @@
 
 - [Tecnologias Utilizadas](#heavy_check_mark-tecnologias-utilizadas)
 
+- [Bibliotecas Utilizadas](#books-bibliotecas-utilizadas)
 
 - [Desenvolvedores](#smiley-desenvolvedor)
 
@@ -66,6 +67,11 @@
 ## :heavy_check_mark: Tecnologias Utilizadas:
 - HTML 5
 - CSS 3
+
+<br/>
+
+## :books: Bibliotecas Utilizadas:
+- <a href="https://fonts.google.com/icons?icon.set=Material+Icons">Google Fonts</a>;
 
 <br/>
 
