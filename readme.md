@@ -1,5 +1,5 @@
 <h1 align="center">
- <img src="src/assets/img/alura-Cast_logo.svg" width="40%">
+ <img src="src/assets/img/roboracast_logo.png">
 </h1>
 
 <p align="center">
@@ -28,29 +28,29 @@
 <br/>
 
 ## :scroll: Descrição:
--  Site estático para uma plataforma de podcast.
+-  Site interativo para uma plataforma de podcast.
 
 <br/>
 
 ## :mega: Demonstração:
-- Versão mobile 
+- Versão para telas de até 1023px; 
 
 <br/>
 <!-- <img src="" width="200" height="380" target="_blank"> -->
 
 <br/>
 
-- Versão tablet
+- Versão para telas de 1024px até 1399px;
 
 <br/>
-<img src="src\assets\img\aluraCastTablet.gif" target="_blank" width="500" height="240">
+<img src="src\assets\img\telaMedia.gif" target="_blank" width="500" height="240">
 
 <br/>
 
-- Versão desktop 
+- Versão para telas acima de 1400px; 
 
 <br/>
-<img src="src\assets\img\aluraCastDesktop.gif" target="_blank" width="600">  
+<img src="src\assets\img\telaGrande.gif" target="_blank" width="600">  
 
 <br/>
 
