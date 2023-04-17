@@ -50,12 +50,12 @@
 - Versão para telas acima de 1400px; 
 
 <br/>
-<img src="src\assets\img\telaGrande.gif" target="_blank" width="600">  
+<img src="src\assets\img\telaGrande.gif" target="_blank" width="600" height="260">  
 
 <br/>
 
 ## :door: Acessar:
-- Acesse o site em <a href="https://rogeriogauer.github.io/aluracast" target="_blank">rogeriogauer.github.io/aluracast</a> 
+- Acesse o site em <a href="https://rogeriogauer.github.io/roboracast" target="_blank">rogeriogauer.github.io/roboracast</a> 
 
 <br/>
 
@@ -71,7 +71,7 @@
 <br/>
 
 ## :books: Bibliotecas Utilizadas:
-- <a href="https://fonts.google.com/icons?icon.set=Material+Icons">Google Fonts</a>;
+- <a href="https://fonts.google.com/icons?icon.set=Material+Icons">Google Fonts</a>
 
 <br/>
 
