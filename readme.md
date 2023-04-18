@@ -1,5 +1,5 @@
 <h1 align="center">
- <img src="src/assets/img/roboracast_logo.png">
+ <img src="src/assets/img/roboracast_logo.png" style="border-radius: 10px">
 </h1>
 
 <p align="center">
@@ -36,21 +36,23 @@
 - Versão para telas de até 1023px; 
 
 <br/>
-<!-- <img src="" width="200" height="380" target="_blank"> -->
+<img src="src\assets\img\telaPequena.gif" width="200" height="380" target="_blank">
 
 <br/>
 
 - Versão para telas de 1024px até 1399px;
 
 <br/>
-<img src="src\assets\img\telaMedia.gif" target="_blank" width="500" height="240">
+<!-- <img src="src\assets\img\telaMedia.gif" target="_blank" width="500" height="240"> -->
+<img src="src\assets\img\telaMedia.gif" target="_blank" width="500" height="280">
 
 <br/>
 
 - Versão para telas acima de 1400px; 
 
 <br/>
-<img src="src\assets\img\telaGrande.gif" target="_blank" width="600" height="260">  
+<!-- <img src="src\assets\img\telaGrande.gif" target="_blank" width="600" height="260">   -->
+<img src="src\assets\img\telaGrande.gif" target="_blank" width="600" height="300">
 
 <br/>
 
