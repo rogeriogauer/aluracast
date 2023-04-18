@@ -36,7 +36,7 @@
 - Versão para telas de até 1023px; 
 
 <br/>
-<img src="src\assets\img\telaPequena.gif" width="200" height="380" target="_blank">
+<img src="src\assets\img\telaPequena.gif" width="170" height="380" target="_blank">
 
 <br/>
 
@@ -44,7 +44,7 @@
 
 <br/>
 <!-- <img src="src\assets\img\telaMedia.gif" target="_blank" width="500" height="240"> -->
-<img src="src\assets\img\telaMedia.gif" target="_blank" width="500" height="280">
+<img src="src\assets\img\telaMedia.gif" target="_blank" width="490" height="240">
 
 <br/>
 
@@ -52,7 +52,7 @@
 
 <br/>
 <!-- <img src="src\assets\img\telaGrande.gif" target="_blank" width="600" height="260">   -->
-<img src="src\assets\img\telaGrande.gif" target="_blank" width="600" height="300">
+<img src="src\assets\img\telaGrande.gif" target="_blank" width="530" height="260">
 
 <br/>
 
