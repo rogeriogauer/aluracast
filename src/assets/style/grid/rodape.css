@@ -13,11 +13,11 @@
    border-radius: 10px 4px 4px 10px;
 }
 
-.rodape__titulo{
+.rodape__titulo {
    font: 700 0.9rem/1.5rem 'Open Sans', sans-serif;
 }
 
-.rodape__subtitulo{
+.rodape__subtitulo {
    font: 400 0.75rem 'Open Sans', sans-serif;
 }
 
@@ -47,3 +47,4 @@
 .rodape__botao--volume-down {
    justify-self: end;
 }
+

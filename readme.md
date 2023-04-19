@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
- <img src="https://img.shields.io/badge/status-developing-006600">
+ <img src="https://img.shields.io/badge/status-finished-006600">
  <img src="https://img.shields.io/badge/version-v1.0.0-004000">
 </p>
 
@@ -13,9 +13,9 @@
 
 - [Descrição](#scroll-descrição)
 
-- [Demonstração](#mega-demonstração)
-
 - [Acessar](#door-acessar) 
+
+- [Demonstração](#mega-demonstração)
 
 - [Objetivos](#dart-objetivos)
 
@@ -32,6 +32,11 @@
 
 <br/>
 
+## :door: Acessar:
+- Acesse o site em <a href="https://rogeriogauer.github.io/roboracast" target="_blank">rogeriogauer.github.io/roboracast</a> 
+
+<br/>
+
 ## :mega: Demonstração:
 - Versão para telas de até 1023px; 
 
@@ -43,7 +48,6 @@
 - Versão para telas de 1024px até 1399px;
 
 <br/>
-<!-- <img src="src\assets\img\telaMedia.gif" target="_blank" width="500" height="240"> -->
 <img src="src\assets\img\telaMedia.gif" target="_blank" width="490" height="240">
 
 <br/>
@@ -51,13 +55,7 @@
 - Versão para telas acima de 1400px; 
 
 <br/>
-<!-- <img src="src\assets\img\telaGrande.gif" target="_blank" width="600" height="260">   -->
 <img src="src\assets\img\telaGrande.gif" target="_blank" width="530" height="260">
-
-<br/>
-
-## :door: Acessar:
-- Acesse o site em <a href="https://rogeriogauer.github.io/roboracast" target="_blank">rogeriogauer.github.io/roboracast</a> 
 
 <br/>
 
