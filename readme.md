@@ -41,21 +41,21 @@
 - Versão para telas de até 1023px; 
 
 <br/>
-<img src="src\assets\img\telaPequena.gif" width="170" height="380" target="_blank">
+<img src="src\assets\img\telaPequena.gif" width="170" height="370">
 
 <br/>
 
 - Versão para telas de 1024px até 1399px;
 
 <br/>
-<img src="src\assets\img\telaMedia.gif" target="_blank" width="490" height="240">
+<img src="src\assets\img\telaMedia.gif" width="490" height="240">
 
 <br/>
 
 - Versão para telas acima de 1400px; 
 
 <br/>
-<img src="src\assets\img\telaGrande.gif" target="_blank" width="530" height="260">
+<img src="src\assets\img\telaGrande.gif" width="530" height="260">
 
 <br/>
 
@@ -71,7 +71,7 @@
 <br/>
 
 ## :books: Bibliotecas Utilizadas:
-- <a href="https://fonts.google.com/icons?icon.set=Material+Icons">Google Fonts</a>
+- <a href="https://fonts.google.com/icons?icon.set=Material+Icons" target="_blank">Google Fonts</a>
 
 <br/>
 
