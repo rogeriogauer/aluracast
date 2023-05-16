@@ -41,7 +41,7 @@
 - Versão para telas de até 1023px; 
 
 <br/>
-<img src="src\assets\img\telaPequena.gif" width="170" height="370">
+<img src="src\assets\img\telaPequena.gif" width="170" height="350">
 
 <br/>
 
